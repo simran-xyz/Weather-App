@@ -1,0 +1,38 @@
+body{
+    background-image: url('img.jpg');
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    color:whitesmoke
+}
+
+#container{
+    border:1px solid white;
+    width:500px;
+    padding:30px;
+    margin : auto;
+    box-shadow: 10px 5px 5px whitesmoke;
+    background-color: white;
+}
+button{
+    cursor: pointer;
+    border: none;
+    padding: 5px;
+    width:60px;
+}
+button:hover{
+    transform: scale(1.1);
+    color:green
+}
+form{
+    text-align: center;
+    font-size: 20px;
+}
+
+h3{
+    color:red;
+}
+p{
+    color: green;
+}
